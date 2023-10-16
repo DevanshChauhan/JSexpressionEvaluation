@@ -1,0 +1,36 @@
+{
+    "root": {
+        "description": "17",
+        "plus": [
+            {
+                "description": "test: atom_expr goes first",
+                "int": 9
+            },
+            {
+                "descrition": "test: how code deal with descriptions",
+                "times": [
+                    {
+                        "descrition": "test",
+                        "int": 2
+                    },
+                    {
+                        "descrition": "test",
+                        "int": 3
+                    }
+                ]
+            },
+            {
+                "minus": [
+                    {
+                        "descrition": "test",
+                        "int": 4
+                    },
+                    {
+                        "descrition": "test",
+                        "int": 2
+                    }
+                ]
+            }
+        ]
+    }
+}
